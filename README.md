@@ -1,4 +1,4 @@
-# Smooth-Multi-Instance-OBS-Preset
+# Wall-OBS-Presets-No-Source-Record
 Made by argo#6969 and ChezBruhger#5969 :)
 
 IMPORTANT:
