@@ -1,11 +1,11 @@
 # Smooth-Multi-Instance-OBS-Preset
-Made by argo#6969 :)
+Made by argo#6969 and ChezBruhger#5969 :)
 
 IMPORTANT:
-Install this transition plugin or it WILL NOT WORK: https://obsproject.com/forum/resources/move-transition.913/
+Install this transition plugin or smooth animations WILL NOT WORK: https://obsproject.com/forum/resources/move-transition.913/
+You can use this without smooth transition plugin but it looks cleaner that way. 
 
-I have also added an option for game capture or window capture depending on what you like :).
-If you play on windowed and you have black bars at the bottom just hit Ctrl + E and change the scale to 1920 by 1080 or whatever you sceen resolution is.
+Insert video link here when it's done 
 
 Steps to install:
 1. Download the zip and extract it using whatever software you have
