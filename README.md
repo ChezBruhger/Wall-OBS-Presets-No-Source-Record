@@ -1,11 +1,13 @@
-# Wall-OBS-Presets-No-Source-Record
+# Wall/Multi-OBS-Presets-No-Source-Record
 Made by argo#6969 and ChezBruhger#5969 :)
 
-IMPORTANT:
-Install this transition plugin or smooth animations WILL NOT WORK: https://obsproject.com/forum/resources/move-transition.913/
-You can use this without smooth transition plugin but it looks cleaner that way. 
+[Setup Video](https://www.youtube.com/watch?v=qfa1HlNF62Y)
 
-Insert video link here when it's done 
+IMPORTANT:
+This fork doesn't have presets for two obs/source record, instead go to [Two Obs/Source Record Presets](https://github.com/ChezBruhger/Wall-OBS-Presets-No-Source-Record) 
+
+Install [Move Transition Plugin](https://obsproject.com/forum/resources/move-transition.913/) or smooth animations WILL NOT WORK.
+You can use this without smooth transition plugin if you prefer a default obs transition like slide. 
 
 Steps to install:
 1. Download the zip and extract it using whatever software you have
@@ -21,3 +23,5 @@ Steps to install:
 ![image](https://user-images.githubusercontent.com/105522941/168394885-f6182780-5901-415f-9485-05c5dc5eedcd.png)
 
 5. You're done!
+
+Dm argo#6969 or ChezBruhger#5969 on discord to report issues or for help :)
