@@ -1,7 +1,7 @@
 # Wall/Multi-OBS-Presets-No-Source-Record
 Made by argo#6969 and ChezBruhger#5969 :)
 
-[Setup Video](https://www.youtube.com/watch?v=qfa1HlNF62Y)
+[Setup Video](https://www.youtube.com/watch?v=eUqVX2_0uAE)
 
 IMPORTANT:
 This fork doesn't have presets for two obs/source record, instead go to [Two Obs/Source Record Presets](https://github.com/ChezBruhger/Wall-OBS-Presets-No-Source-Record) 
